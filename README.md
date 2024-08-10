@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyoAdekoya
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently majoring in Electrical and Computer Engineering
-- 💞️ I’m looking to collaborate on anything
+- 👀 Currently a sophmore at Princeton University
+- 🌱 Studying Electrical and Computer Engineering with a minor in Computer Science
+- 💞️ I’m looking for opportunities to collaborate on anything
 - 📫 Reach me via email @ayoadekoya19@gmail.com
 
 <!---
