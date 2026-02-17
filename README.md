@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyoAdekoya
-- 👀 Currently a sophmore at Princeton University
+- 👀 Currently a junior at Princeton University
 - 🌱 Studying Electrical and Computer Engineering with a minor in Computer Science
 - 💞️ I’m looking for opportunities to collaborate on anything
 - 📫 Reach me via email @ayoadekoya19@gmail.com
